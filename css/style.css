@@ -548,8 +548,16 @@ padding-top: 20px;
 
 
 .abouttitle {
-    padding: 0;
+    font-size: 27px;
+    padding-left: 2px;
+    padding-bottom: 1px;
     margin: 0;
+}
+
+.icon-header {
+    padding-left: 2px;
+    margin: 0;
+    padding-bottom: 35px;
 }
 
 .topheader-white {
@@ -784,7 +792,7 @@ there.
     .chrisphoto {
   margin-left: auto;
   margin-right: auto;  
-padding-top:100px;
+padding-top: 20px;
     }
     
     .aboutsection {
