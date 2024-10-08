@@ -29,6 +29,7 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
+position: relative;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
@@ -832,6 +833,11 @@ there.
         margin: 0;
         padding: 0;
     }
+    
+    .navlist li a {
+  display: inline;
+ list-style-type: none;
+padding-right: 10px;}
     
 
     
