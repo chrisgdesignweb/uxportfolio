@@ -739,6 +739,8 @@ textarea {
   background-color: #F2F3EE;
 }
 
+
+
 .project-title-sm {
     font-size: 15px;
 }
@@ -859,10 +861,16 @@ padding-top: 20px;
     .botton-front {
     margin-top: 10px;
     }
-      .hero {
+.hero {
     padding-bottom: 12rem;
     text-align: left;
     height: 360px;
+    background-color: #F2F3EE;
+  }
+
+.hero2 {
+    text-align: left;
+    height: 160px;
     background-color: #F2F3EE;
   }
 }
