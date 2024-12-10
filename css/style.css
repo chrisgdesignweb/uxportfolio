@@ -625,9 +625,8 @@ img.bordernew {
 padding: 0.5em 1em;
   margin: 0.25em;
   border-radius: 1em;
-  border: none;
+  border: solid 2px #ddd;
   outline: none;
-  background: #dddddd;
 }
 
 .card {
